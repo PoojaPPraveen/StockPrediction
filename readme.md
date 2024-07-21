@@ -1,6 +1,6 @@
 # Stock Price Prediction
 
-This project is focused on predicting the next day's stock closing price using historical stock data and various technical indicators. The model is trained using the XGBoost regression algorithm with features including moving averages, RSI, MACD, and daily return.
+This project is focused on predicting the next day's stock closing price using historical stock data and various technical indicators. The model is trained using the XGBoost regression algorithm with features including moving averages, RSI, MACD, and daily return. The data set used is hystorical dataset from kaggle.
 
 ## Table of Contents
 
